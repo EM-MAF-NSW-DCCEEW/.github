@@ -7,7 +7,7 @@ All software and code are Copyright(C) 2024 State of New South Wales and Departm
 
 All software and code are provided in the hope that they will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-See the GNU General Public License https://www.gnu.org/licenses/ for more details.
+See version 3 of the GNU General Public License https://www.gnu.org/licenses/ for more details.
 
 <!--
 
